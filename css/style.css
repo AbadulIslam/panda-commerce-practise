@@ -1,0 +1,93 @@
+.container{
+    margin-top:100px;
+
+
+}
+.carousel{
+    background: #FCEAE8;
+}
+
+/*carousel code start*/
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-data h2{
+color:#FF1F77;
+}
+.carousel-item button{
+    padding: 10px 25px;
+    background-image: linear-gradient(to right, tomato, #FF1F77);
+    font-weight: bold;
+}
+/*carousel code end*/
+
+/*categories section code start*/
+.cat1{
+    background-image: linear-gradient(to right,orangered,tomato);
+
+}.cat2{
+    background-image: linear-gradient(to right,orangered,blue);
+
+}
+.cat3{
+    background-image: linear-gradient(to right,tomato,orangered);
+
+}
+.cat1 img,.cat2 img,.cat3 img{
+    width: 35%;
+
+}
+
+
+/*categories section code start*/
+
+
+/*card section code start*/
+
+.card-section button{
+    padding: 10px 25px;
+    background-image: linear-gradient(to right, tomato, #FF1F77);
+    font-weight: bold;
+    color: white;
+   margin-top: 10px;
+
+}
+.card{
+    box-shadow: white;
+}
+
+
+
+/*card section code end*/
+
+/*backpack secction code start*/
+.backpack button{
+    padding: 10px 25px;
+    background-image: linear-gradient(to right, tomato, #FF1F77);
+    font-weight: bold;
+    color: white;
+    margin-top: 30px;
+}
+
+/*backpack secction code end*/
+
+/*footer section code start */
+
+.c-btn{
+    padding: 10px 25px;
+    background-image: linear-gradient(to right, tomato, #FF1F77);
+    font-weight: bold;
+    color: white;
+    margin-top: 30px;
+}
+.foot{
+    background: #FCEAE8;
+    padding: 50px 25px;
+    border-radius: 10px;
+}
+
+.copyright p{
+  font-size: 15px;
+}
+
+/*footer section code end */
